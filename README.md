@@ -1,2 +1,1 @@
-# AtvP3
-Atividade de Programação III do Professor
+Atividade de Programação III do Professor Augusto.
